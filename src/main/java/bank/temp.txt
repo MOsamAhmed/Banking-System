@@ -1,0 +1,3 @@
+main frame size (640, 480)
+panel size (640, 360)
+Not enough balance in your account for transaction!
